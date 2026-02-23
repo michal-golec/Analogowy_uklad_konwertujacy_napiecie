@@ -1,0 +1,21 @@
+LTspice 24.1.8 for Windows
+Circuit: C:\Users\wojtek\Desktop\Symulacje_Proj_ELA2\Sekcja cyfrowa_projEla2.net
+Start Time: Mon Jun  2 21:41:29 2025
+solver = Normal
+Maximum thread count: 2
+tnom = 27
+temp = 27
+method = trap
+C3: Increased Cpar to 2.2e-15
+C4: Increased Cpar to 4.7e-12
+C5: Increased Cpar to 4.7e-12
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 51.629 seconds.
+
+Files loaded:
+C:\Users\wojtek\Desktop\Symulacje_Proj_ELA2\Sekcja cyfrowa_projEla2.net
+C:\Users\wojtek\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\wojtek\AppData\Local\LTspice\lib\sub\LT1765.sub
+
+Measurement "vout_pp" FAIL'ed
+Measurement "vin_pp" FAIL'ed
