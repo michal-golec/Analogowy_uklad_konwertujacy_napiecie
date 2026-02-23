@@ -1,5 +1,5 @@
 # Projekt przetwornic napieciowych
-Celem projektu było zaprojektowanie z rzeczywistych elementów i przesymulowanie w programie LTSpice układu analogowego przetwarzającego napięcie źródła na 4 poziomy napięć do konkretnych zastosowań, dlatego projekt podzielono na 4 sekcje:
+Celem projektu było zaprojektowanie z rzeczywistych elementów i przesymulowanie w programie LTSpice układu analogowego, przetwarzającego napięcie źródła na 4 poziomy napięć do konkretnych zastosowań, dlatego projekt podzielono na 4 sekcje:
 
 **1. Sekcja cyfrowa**
 
